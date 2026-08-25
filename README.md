@@ -7,9 +7,9 @@ Pre-Engineering AI Student passionate about Artificial Intelligence and CyberSec
 
 ### 📌 About Me & Goals
 * 🎓 **Education:** Bac Informatique Graduate From Sahline HS, Tunisia (15.48 Average) | Pre-AI Engineering At Xiamen University Malaysia
-* 🤖 **Core Focus:** Building Machine Learning models, Neural Networks, and AI-driven automation
-* 🎯 **Goals:** Engineering scalable AI systems, researching Adversarial ML, and intelligent software solutions
-* 🛡️ **Extra Skillset(Under Construction):** System Security & Threat Analysis (applying AI to Cybersecurity & DevSecOps)
+* 💻 **Current Learning:** Python Programming, Math Fundamentals for AI, and Computer Science basics
+* 🎯 **Goal:** Building strong engineering foundations to create practical AI projects and develop a solid software career
+* 🛡️ **Side Interest:** Exploring cybersecurity basics & hands-on Linux labs via TryHackMe
 
 ---
 
