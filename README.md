@@ -1,10 +1,13 @@
 # ✍️ Hi, I'm Ahmed Harrabi
 
-Pre-Engineering AI Student passionate about Artificial Intelligence, Cybersecurity, and Systems Development.
+Pre-Engineering AI Student passionate about Artificial Intelligence and CyberSecurity.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmd07)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@IahmedT07)
-
+<a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="YOUR_YOUTUBE_URL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
+</a>
 ---
 
 ### 📌 About Me & Goals
