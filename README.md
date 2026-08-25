@@ -1,1 +1,1 @@
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/WhatsApp Image 2026-07-29 at 3.59.17 PM.jpeg)](https://tryhackme.com/p/harrabia455)
