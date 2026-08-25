@@ -2,7 +2,7 @@
 
 Pre-Engineering AI Student passionate about Artificial Intelligence and CyberSecurity.
 
-<a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;<a href="YOUR_YOUTUBE_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+<a href="www.linkedin.com/in/ahmd07" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;<a href="https://www.youtube.com/@IahmedT07" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
 ---
 
 ### 📌 About Me & Goals
