@@ -22,5 +22,4 @@ Click on any section below to view detailed documentation, code repositories, an
 | Section | Description | Explore |
 | :--- | :--- | :--- |
 | 🤖 **AI & Machine Learning** | ML models, Data Analysis, Computer Vision/NLP experiments, and Python AI projects | [![Explore](https://img.shields.io/badge/View_AI_Projects-Blue?style=for-the-badge&logo=python)](./AI_PROJECTS.md) |
-| ⚡ **Software & Automation** | Python CLI micro-tools, algorithmic solvers, and general software utilities | [![Explore](https://img.shields.io/badge/View_Software-Green?style=for-the-badge&logo=github)](./SOFTWARE_PROJECTS.md) |
 | 🛡️ **Cybersecurity & Labs** | *(Side Interest)* TryHackMe walk-throughs, network labs, and AI Security notes | [![Explore](https://img.shields.io/badge/View_Labs-Red?style=for-the-badge&logo=tryhackme)](./CYBERSECURITY.md) |
