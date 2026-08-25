@@ -1,1 +1,26 @@
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-ahmedharrabi-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/ahmedhh07)
+# ✍️ Hi, I'm Ahmed Harrabi
+
+Pre-Engineering AI Student passionate about Artificial Intelligence, Cybersecurity, and Systems Development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmd07)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@IahmedT07)
+
+---
+
+### 📌 About Me & Goals
+* 🎓 **Education:** Bac Informatique Graduate From Sahline HS, Tunisia (15.48 Average) | Pre-AI Engineering At Xiamen University Malaysia
+* 🤖 **Core Focus:** Building Machine Learning models, Neural Networks, and AI-driven automation
+* 🎯 **Goals:** Engineering scalable AI systems, researching Adversarial ML, and intelligent software solutions
+* 🛡️ **Extra Skillset(Under Construction):** System Security & Threat Analysis (applying AI to Cybersecurity & DevSecOps)
+
+---
+
+### 📂 Explore My Focus Areas & Projects
+
+Click on any section below to view detailed documentation, code repositories, and experiments:
+
+| Section | Description | Explore |
+| :--- | :--- | :--- |
+| 🤖 **AI & Machine Learning** | ML models, Data Analysis, Computer Vision/NLP experiments, and Python AI projects | [![Explore](https://img.shields.io/badge/View_AI_Projects-Blue?style=for-the-badge&logo=python)](./AI_PROJECTS.md) |
+| ⚡ **Software & Automation** | Python CLI micro-tools, algorithmic solvers, and general software utilities | [![Explore](https://img.shields.io/badge/View_Software-Green?style=for-the-badge&logo=github)](./SOFTWARE_PROJECTS.md) |
+| 🛡️ **Cybersecurity & Labs** | *(Side Interest)* TryHackMe walk-throughs, network labs, and AI Security notes | [![Explore](https://img.shields.io/badge/View_Labs-Red?style=for-the-badge&logo=tryhackme)](./CYBERSECURITY.md) |
