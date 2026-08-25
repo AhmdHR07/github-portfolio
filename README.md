@@ -1,1 +1,1 @@
-[![TryHackMe Badge](https://tryhackme.com/badge/harrabia455)](https://tryhackme.com/p/harrabia455)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-harrabia455-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/harrabia455)
