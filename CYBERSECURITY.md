@@ -22,6 +22,4 @@ I document my practical hands-on labs, CTF solutions, and room write-ups to demo
 
 ---
 
-<a href="./README.md">
-  <img src="https://img.shields.io/badge/%E2%AC%85%EF%B8%8F_Back_to_Main_Profile-111827?style=for-the-badge&logo=arrow-left&logoColor=white" alt="Back to Main Profile">
-</a>
+[![Back to Main Profile](https://img.shields.io/badge/%E2%AC%85%EF%B8%8F_Back_to_Main_Profile-008080?style=for-the-badge&logo=github&logoColor=white)](./README.md)
