@@ -14,7 +14,7 @@ Welcome to my AI and projects directory! Here I document my step-by-step learnin
 ### 🚀 Projects & Learning Path
 * 🔹 **[Python GUI & Desktop Apps](./)** - Interactive desktop applications built with PyQt, featuring file manipulation and user data storage.
 * 🔹 **[Python CLI & Automation](./)** - Automation scripts and algorithmic solvers developed during self-learning.
-* 🔹 **[Web & JS Experiments](./)** - Small interactive front-end tools using HTML, CSS, and JavaScript.
+* 🔹 **[Web & JS Experiments](./projects_STI/)** - Small interactive front-end tools and full-stack web applications (including PHP & MySQL projects).
 * 🔹 **[AI Foundations (In Progress)](./)** - Notes and mini-projects as I explore Machine Learning concepts.
 
 ---
