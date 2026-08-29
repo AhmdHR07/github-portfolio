@@ -11,8 +11,6 @@ A full-stack, database-driven web application designed to help student developer
 
 > 💡 *Click the badges above to open the screenshot preview or watch the video walkthrough!*
 
-> 💡 *Click the badges above to open the screenshot preview or watch the video walkthrough!*
-
 ## 📌 Overview
 
 Because GitHub Pages hosts static web assets only, **this application requires a local PHP server engine and a MySQL database to execute**. 
