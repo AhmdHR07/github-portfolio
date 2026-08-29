@@ -1,14 +1,34 @@
 # 🎓 Student Dev Dashboard
 
-A full-stack, database-driven web application designed to help student developers track daily study hours, log programming tasks, and monitor learning progress with live statistical updates.
+A full-stack, database-driven web application designed to help student developers track daily study hours, log programming tasks, and monitor learning progress with dynamic statistical updates.
+
+---
+
+## 📽️ Showcase & Preview
+
+<!-- Replace the placeholders below with your actual images/videos later -->
+
+### 📷 Screenshots
+![Dashboard Overview](https://via.placeholder.com/800x450.png?text=Dashboard+Overview+Screenshot+Placeholder)
+
+### 🎥 Demo Video
+> 🎬 **Watch the walkthrough video:** [Link to Demo Video / GIF](#) 
 
 ---
 
 ## 📌 Overview
 
-Because GitHub Pages hosts static assets only, **this project requires a local PHP server engine and a MySQL database (such as XAMPP) to execute**. 
+Because GitHub Pages hosts static web assets only, **this application requires a local PHP server engine and a MySQL database to execute**. 
 
-To test and run this project live on your machine, follow the setup instructions below to download the repository and import the database schema into your local environment (`localhost`).
+To test and run this project locally, download the project archive (`student-dashboard.rar`), extract the files into your local server root, and open it using **XAMPP** and **Visual Studio Code**.
+
+---
+
+## 📦 Direct Download
+
+[![Download RAR Archive](https://img.shields.io/badge/Download-Student__Dashboard.rar-0078D4?style=for-the-badge&logo=winrar&logoColor=white)](YOUR_ZIP_OR_RAR_DOWNLOAD_LINK_HERE)
+
+*(Click the badge above to download the project archive).*
 
 ---
 
@@ -16,21 +36,24 @@ To test and run this project live on your machine, follow the setup instructions
 
 - **Task & Time Logging:** Record project topics alongside exact hours spent.
 - **Dynamic Stats Calculation:** Real-time database queries automatically aggregate total completed tasks and cumulative study hours.
-- **Asynchronous Data Handling:** Uses JavaScript's `Fetch API` for dynamic UI updates without requiring page reloads.
-- **Relational Database Storage:** Powered by MySQL with clean table schemas and structured queries.
+- **Asynchronous Data Handling:** Uses JavaScript's `Fetch API` for dynamic UI updates without page reloads.
+- **Relational Database Storage:** Powered by MySQL with structured table schemas and relational queries.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Requirements
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6 / Fetch API)
 - **Backend:** PHP 8.x
 - **Database:** MySQL / MariaDB
-- **Local Server Environment:** XAMPP (Apache + MySQL) / VS Code
+- **Tools Needed:** 
+  * [XAMPP](https://www.apachefriends.org/index.html) (Apache + MySQL)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * File Archiver ([WinRAR](https://www.win-rar.com/) or 7-Zip)
 
 ---
 
-## 🗄️ Database Schema & File Overview
+## 🗄️ Project File Layout
 
 ```text
 student-dashboard/
@@ -38,5 +61,4 @@ student-dashboard/
 ├── api.php               # Server-side PHP script (Database connection & CRUD operations)
 ├── app.js                # Frontend JavaScript logic (Fetch requests & DOM updates)
 ├── style.css             # App styling & responsive layout
-├── student_dashboard.sql # Database schema dump for localhost import
-└── README.md             # Project documentation
+├── student_dashboard.sql # MySQL database schema dump for phpMyAdmin import
