@@ -17,12 +17,6 @@ A full-stack, database-driven web application designed to help student developer
 </p>
 
 > 💡 *Click the badges above to open the screenshot preview or watch the video walkthrough!*
----
-
-### 🎥 Video Demonstration
-> 🎬 **Watch the full feature walkthrough:**  
-> [![Watch Video](https://img.shields.io/badge/Watch_Demo-Loom_Video-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE)
----
 
 ## 📌 Overview
 
