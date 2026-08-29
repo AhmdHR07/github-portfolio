@@ -43,7 +43,6 @@ To test and run this project locally, download the project archive (`student-das
 - **Database:** MySQL / MariaDB
 - **Tools Needed:** 
   * [XAMPP](https://www.apachefriends.org/index.html) (Apache + MySQL)
-  * [Visual Studio Code](https://code.visualstudio.com/)
   * File Archiver ([WinRAR](https://www.win-rar.com/) or 7-Zip)
 
 ---
