@@ -1,39 +1,37 @@
-# 🎓 Student Dev Dashboard
+# 🌐 Web Development & Database Projects
 
-A full-stack CRUD application built to track daily learning tasks, study hours, and software engineering topics.
-
----
-
-## 🚀 Live Demo & Links
-
-- **Live Demo:** [Link to hosted app](https://your-app.infinityfreeapp.com) _(Optional)_
-- **Database Schema:** [`db.sql`](./db.sql)
+Welcome to my full-stack and web development showcase! This directory houses my interactive web applications, frontend experiments, and database-driven tools built with HTML, CSS, JavaScript, PHP, and SQL.
 
 ---
 
-## ✨ Features
-
-- **Task & Time Tracking:** Log project topics alongside exact hours spent.
-- **Dynamic Stats Card:** Automatically totals task count and cumulative study time via SQL queries.
-- **Client-Side Validation:** JavaScript checks to prevent empty entries or invalid hour ranges before form post.
-- **Server-Side CRUD:** PHP script handling structured database inserts and query rendering.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6)
-- **Backend:** PHP 8.x
-- **Database:** MySQL / MariaDB (XAMPP Environment)
+### 🛠️ Core Technologies
+* **Frontend:** HTML5, CSS3, JavaScript (ES6)
+* **Backend:** PHP 8.x
+* **Database:** MySQL / MariaDB (XAMPP Environment)
+* **Tools:** Visual Studio Code, Git, GitHub, phpMyAdmin
 
 ---
 
-## 🗄️ Database Setup Instructions
+### 📂 Featured Web Projects
 
-1. Open **phpMyAdmin** or your MySQL client.
-2. Create a new database named `student_dashboard`.
-3. Import or execute the contents of the [`db.sql`](./db.sql) file provided in this repository.
-4. Ensure your local PHP server settings in `api.php` match your database credentials:
-   ```php
-   $con = mysqli_connect("localhost", "root", "", "student_dashboard");
-   ```
+| Project Name | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**🎓 Student Dev Dashboard**](./student-dashboard/) | Full-stack CRUD application to log study hours, track project tasks, and display dynamic live stats. | PHP, MySQL, JS, CSS | Completed |
+| [**🔮 Project 2 Name**](./) | Brief 1-sentence description of your next upcoming web tool or mini-project. | HTML, CSS, JS | In Progress |
+
+---
+
+### 📁 Directory Layout
+
+```text
+projects-sti/
+│
+├── README.md               <-- You are here!
+│
+└── student-dashboard/      <-- Student Dev Dashboard Application
+    ├── index.php
+    ├── api.php
+    ├── app.js
+    ├── style.css
+    ├── student_dashboard.sql
+    └── README.md
