@@ -15,7 +15,7 @@ A full-stack, database-driven web application designed to help student developer
 
 Because GitHub Pages hosts static web assets only, **this application requires a local PHP server engine and a MySQL database to execute**. 
 
-To test and run this project locally, download the project (`student-dashboard`) in (`C:\xampp\htdocs`), and open it using **XAMPP (apache)** , .
+To test and run this project locally, download the project (`student-dashboard`) in (`C:\xampp\htdocs`), open **XAMPP (apache)** and click the project's folder, .
 
 ---
 
