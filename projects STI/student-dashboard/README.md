@@ -7,7 +7,7 @@ A full-stack CRUD application built to track daily learning tasks, study hours, 
 ## 🚀 Live Demo & Links
 
 - **Live Demo:** [Link to hosted app](https://your-app.infinityfreeapp.com) *(Optional)*
-- **Database Schema:** [`db.sql`](./student_dashboard.sql)
+- **Database Schema:** [`student-dashboard.sql`](./student_dashboard.sql)
 
 ---
 
