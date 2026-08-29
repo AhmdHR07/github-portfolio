@@ -7,7 +7,7 @@ A full-stack CRUD application built to track daily learning tasks, study hours, 
 ## 🚀 Live Demo & Links
 
 - **Live Demo:** [Link to hosted app](https://your-app.infinityfreeapp.com) *(Optional)*
-- **Database Schema:** [`db.sql`](./db.sql)
+- **Database Schema:** [`db.sql`](./student_dashboard.sql)
 
 ---
 
@@ -32,7 +32,7 @@ A full-stack CRUD application built to track daily learning tasks, study hours, 
 
 1. Open **phpMyAdmin** or your MySQL client.
 2. Create a new database named `student_dashboard`.
-3. Import or execute the contents of the [`db.sql`](./db.sql) file provided in this repository.
+3. Import or execute the contents of the [`student_dashboard.sql`](./student_dashboard.sql) file provided in this repository.
 4. Ensure your local PHP server settings in `api.php` match your database credentials:
    ```php
    $con = mysqli_connect("localhost", "root", "", "student_dashboard");
