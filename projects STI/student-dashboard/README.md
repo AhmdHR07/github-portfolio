@@ -6,15 +6,10 @@ A full-stack, database-driven web application designed to help student developer
 
 ## 📽️ Showcase & Preview
 
-<p align="center">
-  <a href="./assets/preview.png">
-    <img src="https://img.shields.io/badge/Preview-Dashboard__Overview-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Dashboard Overview Badge">
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE">
-    <img src="https://img.shields.io/badge/Watch_Demo-Loom_Video-6B5B95?style=for-the-badge&logo=loom&logoColor=white" alt="Watch Demo Badge">
-  </a>
-</p>
+[![Preview Dashboard Overview](https://img.shields.io/badge/Preview-Dashboard__Overview-0078D4?style=for-the-badge&logo=windows&logoColor=white)](./assets/preview.png)
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Loom_Video-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE)
+
+> 💡 *Click the badges above to open the screenshot preview or watch the video walkthrough!*
 
 > 💡 *Click the badges above to open the screenshot preview or watch the video walkthrough!*
 
