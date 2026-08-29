@@ -6,14 +6,16 @@ A full-stack, database-driven web application designed to help student developer
 
 ## 📽️ Showcase & Preview
 
-<!-- Replace the placeholders below with your actual images/videos later -->
+<div align="center">
+  <img src="./assets/preview.png" alt="Student Dev Dashboard Overview" width="90%">
+  <p><em>Figure 1: Student Dev Dashboard main interface showing task logging and real-time statistics.</em></p>
+</div>
 
-### 📷 Screenshots
-![Dashboard Overview](https://via.placeholder.com/800x450.png?text=Dashboard+Overview+Screenshot+Placeholder)
+---
 
-### 🎥 Demo Video
-> 🎬 **Watch the walkthrough video:** [Link to Demo Video / GIF](#) 
-
+### 🎥 Video Demonstration
+> 🎬 **Watch the full feature walkthrough:**  
+> [![Watch Video](https://img.shields.io/badge/Watch_Demo-Loom_Video-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE)
 ---
 
 ## 📌 Overview
