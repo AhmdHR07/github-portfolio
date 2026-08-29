@@ -17,7 +17,7 @@ Welcome to my full-stack and web development showcase! This directory houses my 
 | Project Name | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [**🎓 Student Dev Dashboard**](./student-dashboard/) | Full-stack CRUD application to log study hours, track project tasks, and display dynamic live stats. | PHP, MySQL, JS, CSS | Under-Developpement |
-| [**🔮 Project 2 Name**](./) | Brief 1-sentence description of your next upcoming web tool or mini-project. | HTML, CSS, JS | In Progress |
+| [**🔮 Project 2 Name**](./) | Brief 1-sentence description of your next upcoming web tool or mini-project. | HTML, CSS, JS | Soon |
 
 ---
 
