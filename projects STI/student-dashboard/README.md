@@ -31,7 +31,7 @@ To test and run this project locally, download the project archive (`student-das
 
 - **Task & Time Logging:** Record project topics alongside exact hours spent.
 - **Dynamic Stats Calculation:** Real-time database queries automatically aggregate total completed tasks and cumulative study hours.
-- **Asynchronous Data Handling:** Uses JavaScript's `Fetch API` for dynamic UI updates without page reloads.
+- **Server-Side Data Processing:** Uses HTTP POST requests handled directly by PHP to process input and update MySQL database records.
 - **Relational Database Storage:** Powered by MySQL with structured table schemas and relational queries.
 
 ---
