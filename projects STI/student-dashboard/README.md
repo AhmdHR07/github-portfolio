@@ -21,9 +21,9 @@ To test and run this project locally, download the project archive (`student-das
 
 ## 📦 Direct Download
 
-[![Download RAR Archive](https://img.shields.io/badge/Download-Student__Dashboard.rar-0078D4?style=for-the-badge&logo=winrar&logoColor=white)]([YOUR_ZIP_OR_RAR_DOWNLOAD_LINK_HERE](https://drive.google.com/drive/folders/15VIUgf7xU2Ychs-FjVT5pAKQQ8CJ1kVA?usp=drive_link))
+[![Download](https://img.shields.io/badge/Download-Student__Dashboard.rar-0078D4?style=for-the-badge&logo=winrar&logoColor=white)](https://drive.google.com/drive/folders/15VIUgf7xU2Ychs-FjVT5pAKQQ8CJ1kVA?usp=drive_link)
 
-*(Click the badge above to download the project archive).*
+*(Click the badge above to download the project).*
 
 ---
 
